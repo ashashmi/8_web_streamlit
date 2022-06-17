@@ -1,0 +1,2 @@
+python iris_model.py
+streamlit run iris_app.py
